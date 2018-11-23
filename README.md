@@ -1,6 +1,6 @@
-# Project Title
+# Data Visualization Notes
 
-The repository contains notes and work undertaken.
+The repository contains notes and work that has been done to date.
 
 ## Getting Started
 
